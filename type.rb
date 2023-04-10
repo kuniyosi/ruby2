@@ -1,1 +1,8 @@
-puts 100+'300'.to_i
+webcamp = 'プログラミング学習'
+puts webcamp
+
+webcamp = 'オンラインプログラミング学習'
+puts webcamp
+
+Pi = 3.14
+puts Pi
